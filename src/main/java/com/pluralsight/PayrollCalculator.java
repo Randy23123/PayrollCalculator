@@ -17,7 +17,7 @@ public class PayrollCalculator {
         System.out.println("How much do you get paid?: ");
         Float num2 = scanner.nextFloat();
 
-        
+
 
 
 
